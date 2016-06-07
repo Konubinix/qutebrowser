@@ -107,7 +107,7 @@ show it.
 
 - '~/.config/qutebrowser/config.py': Configuration file.
 - '~/.config/qutebrowser/autoconfig.yml': Configuration done via the GUI.
-- '~/.config/qutebrowser/quickmarks': Saved quickmarks.
+- '~/.local/share/qutebrowser/quickmarks': Saved quickmarks.
 - '~/.local/share/qutebrowser/': Various state information.
 - '~/.cache/qutebrowser/': Temporary data.
 
@@ -117,8 +117,8 @@ environment, the directories configured there are used instead of the above
 defaults.
 
 == BUGS
-Bugs are tracked in the Github issue tracker at 
-https://github.com/qutebrowser/qutebrowser/issues.
+Bugs are tracked in the Github issue tracker at
+https://github.com/The-Compiler/qutebrowser/issues.
 
 If you found a bug, use the built-in ':report' command to create a bug report
 with all information needed.
